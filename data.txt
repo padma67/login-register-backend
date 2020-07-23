@@ -1,0 +1,28 @@
+/* post staff
+ {
+        "id": 1,
+        "name": "Jack",
+        "email": "ahgdfydg@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "loss",
+        "email": "ahgdfydg@gmail.com"
+    }*/
+
+/*post student
+{
+        "id": 1,
+        "name": "David",
+        "staff_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Dari",
+        "staff_id": 1
+    },
+    {
+        "id": 3,
+        "name": "hals",
+        "staff_id": 2
+    }*/
